@@ -1,0 +1,36 @@
+{
+  "name": "html-loading-webpack-plugin",
+  "version": "1.0.0",
+  "description": "A webpack plugin for show loading before resource loading",
+  "keywords": [
+    "html",
+    "plugin",
+    "loading",
+    "webpack"
+  ],
+  "homepage": "https://github.com/kingller/html-loading-webpack-plugin",
+  "bugs": {
+    "url": "https://github.com/kingller/html-loading-webpack-plugin/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kingller/html-loading-webpack-plugin.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Kingller Tang",
+    "url": "https://github.com/kingller"
+  },
+  "files": [
+    "index.js",
+    "css/"
+  ],
+  "main": "index.js",
+  "scripts": {},
+  "peerDependencies": {
+    "webpack": ">=4.0.0"
+  },
+  "engines": {
+    "node": ">=10.16.3"
+  }
+}
