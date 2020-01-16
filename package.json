@@ -1,6 +1,6 @@
 {
   "name": "html-loading-webpack-plugin",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "A webpack plugin for show loading before resource loading",
   "keywords": [
     "html",
